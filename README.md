@@ -1,78 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishnu Garigipati</h1>
+<h3 align="center">A passionate machine learning developer from Canada</h3>
 
-# Im Vishnu Garigipati
+- 🔭 I’m currently working on **research projects**
 
-📍 Montréal, Canada  
-📞 (514) 641-0366  
-📧 vishnucanada@gmail.com  
-🔗 [GitHub](https://github.com/vishnucanada/) | [LinkedIn](https://www.linkedin.com/in/vishnu-garigipati-28aa562b5/)  
+- 🌱 I’m currently learning **about quant finance**
 
-## Background
+- 👨‍💻 All of my projects are available [here](here)
 
-Undergraduate computer science student passionate about machine learning, information theory, and interdisciplinary research. Experienced in research and practical ML deployment with a strong interest in contributing to impactful data-driven projects. Focus areas include AI for Science Commercialization, LLM Applications, Full-Stack SaaS, Embedded AI, and Open-Source Collaboration.
+- 💬 Ask me about **my current research projects**
 
-## Education
+- 📫 How to reach me **vishnucanada@gmail.com**
 
-🎓 **Concordia University**, Montreal, Canada  
-*Bachelor of Computer Science*  
-📅 January 2021 – December 2025  
+- 📄 Check out my personal site at [https://vishnucanada.github.io/personal-website/](https://vishnucanada.github.io/personal-website/)
 
-🎓 **Marianopolis College**, Montreal, Canada  
-*Diploma of College Studies (DEC) in Mathematics and Finance*  
-📅 2019 – 2022  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vishnu-garigipati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-garigipati" height="30" width="40" /></a>
+</p>
 
-## Work Experience
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-🔬 **AI Research Intern**  
-*École de Technologie Supérieure (ETS), Montreal, Canada*  
-📅 July 2025 – Present  
-- Conducted research on online learning methods for embedded systems in data science contexts.  
-- Authored a paper intended for publication in ICML journals and major conferences.  
-- Deployed lightweight ML models on Arduino Nano to emulate IoT devices in real-life scenarios.  
-- Collaborated with researchers to analyze data and develop innovative computational models.  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnucanada&show_icons=true&locale=en&layout=compact" alt="vishnucanada" /></p>
 
-🤖 **Machine Learning Intern**  
-*Ericsson, Montreal, Canada*  
-📅 January 2024 – September 2024  
-- Authored drafts for a patent application and a paper, *"On Entropy-Based Distributions"*, intended for IEEE journals.  
-- Reviewed 10+ scientific papers on information theory and statistical mechanics.  
-- Deployed ML algorithms for telematics, enhancing predictive capabilities using CI/CD pipelines.  
-- Integrated automated workflows to streamline end-to-end product deployment.  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnucanada&show_icons=true&locale=en" alt="vishnucanada" /></p>
 
-## Technical Skills
-
-💻 **Languages & Tools**  
-- **Languages**: Python, Java, JavaScript, Prolog, C, C++, SQL  
-- **Tools & Libraries**: Git, GitLab, NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Kubernetes, Docker, AWS, Azure  
-- **Web Development**: HTML, CSS, React.js  
-
-## Projects
-
-📚 **Knowledge Distillation on VAE**  
-🔗 [GitHub Link](https://github.com/vishnucanada/Knowledge-Distillation)  
-- Analyzed response-based knowledge distillation on variational autoencoders.  
-- Demonstrated key improvements in student models using this technique.  
-
-🎮 **Minimax vs Reinforcement Learning**  
-🔗 [GitHub Link](https://github.com/vishnucanada/MiniMaxRL)  
-- Compared Minimax and Reinforcement Learning in a solved game.  
-- Concluded that Minimax outperforms RL in solved games.  
-
-🌐 **Personal Website**  
-🔗 [Website Link](https://vishnucanada.github.io/personal-website/)  
-- Developed a portfolio website to showcase projects and resume.  
-- Demonstrates web development skills and personal project interest.  
-
-## Relevant Courses  
-- Object-Oriented Programming  
-- Web Programming  
-- Data Analytics  
-- Artificial Intelligence  
-- Neural Networks  
-- Cybersecurity  
-
-## Language Skills  
-- Fluent in English and French  
-
----  
-✨ *Open to collaborations and opportunities in ML, AI, and data-driven innovation!*  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnucanada&" alt="vishnucanada" /></p>
